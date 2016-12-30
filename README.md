@@ -13,7 +13,7 @@ The top 7 people in my life have access to this app for comments - All who downl
 Built with Node, Polymer 2.x, Xcode, Homebrew, Bower, Firebase
 
 ## Working in Native Default Terminal OSX
-`$brew install node `//READ all WARNINGS and fix as needed or gitter me for help @st.fresh
+`$brew install node `//READ all WARNINGS and fix as needed or gitter me for help @st-fresh
 
 `$npm install -g polymer-cli`
 
@@ -39,10 +39,10 @@ Built with Node, Polymer 2.x, Xcode, Homebrew, Bower, Firebase
 `$firebase init` //lots of options here and things to read.. standby
 
 # Node upgrades
-`$brew upgrade node` //READ all WARNINGS and fix as needed or gitter me for help @st.fresh
+`$brew upgrade node` //READ all WARNINGS and fix as needed or gitter me for help @st-fresh
 
 # Homebrew upgrades
-`$brew upgrade` //READ all WARNINGS and fix as needed or gitter me for help @st.fresh
+`$brew upgrade` //READ all WARNINGS and fix as needed or gitter me for help @st-fresh
 
 # Firebase in CLI errors
 `$npm get prefix` //Should return something like `/home/your-username/npm-global` 
@@ -60,7 +60,7 @@ Built with Node, Polymer 2.x, Xcode, Homebrew, Bower, Firebase
 
 `$source ~/.bash_profile` //reapply profile to shell for CLI 
 
-`$firebase version` //make sure you get `3.2.1` or higher if still `no command found` gitter me @st.fresh with your bash_profile
+`$firebase version` //make sure you get `3.2.1` or higher if still `no command found` gitter me @st-fresh with your bash_profile
 
 # Firebase logout situation
 `$Firebase logout` //if you auth'd with a gmail that isn't connected to your https://console.firebase.google.com/
