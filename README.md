@@ -6,7 +6,7 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-Project I: Refreshist Progressive Web App for me and 7 others
+# Project I: Refreshist Progressive Web App for me and 7 others
 
 Refreshist is my website and my mobile app - A progressive web app that shares news, photos, videos and more about me. 
 The top 7 people in my life have access to this app for comments - All who download it for mobile and aren't of the top 7 can only view. 
