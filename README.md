@@ -52,7 +52,7 @@ Built with Node, Polymer 2.x, Xcode, Homebrew, Bower, Firebase
 `$nano ~/.bash_profile` //some say `~/.bashrc` ? idk! nano edit both?
 
 # Add the line below [line 57] to bash_profile on a new line of its own
-43 `export PATH="/home/your-username/npm-global/bin:$PATH" # Add npm bin PATH`
+57 `export PATH="/home/your-username/npm-global/bin:$PATH" # Add npm bin PATH`
 
 //for me `export PATH="/Users/jonathanjames/.npm-packages/bin:$PATH"`
 
