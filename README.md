@@ -25,7 +25,7 @@ Built with Node, Polymer 2.x, Xcode, Homebrew, Bower, Firebase
 
 `$firebase login` //careful here, it will auth using Safari.. so your gmail account that's auth'd with Safari will be used.. needs to be same gmail that you setup at https://console.firebase.google.com/
 
-# Working inside your repo or local top-level directory**
+# Working inside your repo or local top-level directory
 `$mkdir app-name` //all your stuff goes in this folder called `app-name` 
 
 //I highly suggest you connect this folder to git and utilize branching for this project
